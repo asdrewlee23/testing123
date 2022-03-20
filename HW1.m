@@ -67,3 +67,8 @@ function [output] = ReduceGrayScale(input)
 %   Detailed explanation goes here
 output = input/4;
 end
+
+
+
+
+dsknhfdlokfdnhgklfdnhfda;lkhnfeokhnk;l
